@@ -3,11 +3,10 @@
 echo "hallo gebruiker!";
 
 
-$line = readline( "gebruiker zegt:");
+$line = readline( "");
   
-echo $line;
+echo "gebruiker zegt: $line ";
 ?>
-
 
  
 
